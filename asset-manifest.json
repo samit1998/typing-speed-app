@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/typing-speed-app/static/css/main.3439b074.css",
+    "main.js": "/typing-speed-app/static/js/main.77cbdfd3.js",
+    "index.html": "/typing-speed-app/index.html",
+    "main.3439b074.css.map": "/typing-speed-app/static/css/main.3439b074.css.map",
+    "main.77cbdfd3.js.map": "/typing-speed-app/static/js/main.77cbdfd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3439b074.css",
+    "static/js/main.77cbdfd3.js"
+  ]
+}
